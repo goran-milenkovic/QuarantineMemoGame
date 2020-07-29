@@ -1,4 +1,4 @@
-# QuarantineMemoGame(iOS, Android)
+# QuarantineMemoGame (iOS, Android)
 
 ***Hybrid app created with React Native that can run natively on both iOS and Android***
 
@@ -18,3 +18,5 @@
 - The game ends when all cards are matched and user can share result if it is in top 10 for that level. Also, top list is displayed and user is able to enter his username if result satisfies the previously stated condition
 
 - User can start new game
+
+*Images taken from [@aisamanra](https://github.com/aisamanra/fruit-icons)
