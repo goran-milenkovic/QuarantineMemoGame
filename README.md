@@ -19,4 +19,5 @@
 
 - User can start new game
 
-*Images taken from [@aisamanra](https://github.com/aisamanra/fruit-icons)
+*Fruit images taken from [@aisamanra](https://github.com/aisamanra/fruit-icons)
+*Default/logo/splash-screen/favicon/icon image taken from [pngtree.com](https://pngtree.com/so/maskblue)
