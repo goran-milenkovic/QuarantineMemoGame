@@ -2,8 +2,31 @@
 
 ***Hybrid app created with React Native that can run natively on both iOS and Android***
 
+##  Requirements
+### General
+- node-js v12 or higher
+	-  <pre> sudo apt-get install python-software-properties  </pre>
+	-  <pre> curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash – </pre>
+	- <pre> sudo apt-get install nodejs  </pre>
+- expo-cli
+	- <pre> npm i -g expo-cli </pre>
+### Android
+- [android-emulator](https://docs.expo.io/workflow/android-studio-emulator/)
+### iOS
+- [ios-simulator](https://docs.expo.io/workflow/ios-simulator/)**
+
+** Mac platform recommended
+
+##  Run
+
+- <pre> cd QuarantineMemoGame </pre>
+- <pre> npm start </pre>
+-  Choose preferred option and wait to finish javascript bundling
+
+## The flow and rules
+
 - The game has three levels:
-	-  (4x4)
+	- (4x4)
 	- (6x6)
 	- (8x8)
 
@@ -20,4 +43,5 @@
 - User can start new game
 
 *Fruit images taken from [@aisamanra](https://github.com/aisamanra/fruit-icons)
+
 *Default/logo/splash-screen/favicon/icon image taken from [pngtree.com](https://pngtree.com/so/maskblue)
